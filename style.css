@@ -42,7 +42,13 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #d6e9ff;
+}
+
+button[type="submit"]:hover {
+    background: #1f3b5f;
+    color: #fff;
+
 }
 
 .lists {
